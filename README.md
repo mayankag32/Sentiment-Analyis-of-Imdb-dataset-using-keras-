@@ -1,5 +1,5 @@
 # Sentiment Analyis of movie reviews using keras
-Neural Network that predicts the sentiment of movie reviews.
+Neural Network that predicts the sentiments of movie reviews.
 
 No. of Hidden Layers Used- 6
 
